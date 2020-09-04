@@ -5,7 +5,6 @@ A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes,
 
 <br>
 
---------
 
 ### <ins>Steps?</ins>
 
@@ -70,8 +69,6 @@ A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes,
 
 
 <br>
-
----------
 
 ### *How to use?*
 
@@ -166,6 +163,10 @@ A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes,
 <br>
 
 ![1](https://i.ibb.co/F6ZGZGC/ezgif-com-gif-maker.gif)
+
+<br>
+
+------
 
 ##### Project: *DoItDir&File Toolkit*
 
