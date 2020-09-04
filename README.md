@@ -1,12 +1,12 @@
 
-### <ins>What's?</ins>
+## <ins>What's?</ins>
 
 A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes, checks and more.
 
 <br>
 
 
-### <ins>Steps?</ins>
+## <ins>Steps?</ins>
 
 <br>
 
@@ -70,7 +70,7 @@ A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes,
 
 <br>
 
-### <ins>*How to use?*</ins>
+## <ins>How to use?</ins>
 
 #### <ins>*-Options -*</ins>
 
