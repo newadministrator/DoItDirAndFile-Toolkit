@@ -4,6 +4,10 @@
 
 <br>
 
+![00](https://i.ibb.co/QC9DShS/Untitled.png)
+
+<br>
+
 ## <ins>What's?</ins>
 
 A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes, checks and more.
