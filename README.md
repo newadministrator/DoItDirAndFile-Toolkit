@@ -70,7 +70,7 @@ A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes,
 
 <br>
 
-### *How to use?*
+### <ins>*How to use?*</ins>
 
 #### <ins>*-Options -*</ins>
 
@@ -158,7 +158,7 @@ A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes,
 
 <br>
 
-## Sreenshots
+## <ins>Sreenshots</ins>
 
 <br>
 
