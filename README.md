@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=bd-config-messages)](https://travis-ci.com/travis-ci/travis-web)
+
+----
+
+<br>
 
 ## <ins>What's?</ins>
 
