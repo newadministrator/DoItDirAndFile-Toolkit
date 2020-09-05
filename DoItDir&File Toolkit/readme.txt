@@ -113,6 +113,6 @@ Version: 1.1b
 ____________________________________.
 Project: DoItDir&File Toolkit       |
 ------------------------------------|
-Author: newadministrator	  |
+Author: newadministrator	    |
 ------------------------------------|
 _______a.k.a.:___e.victor_________..|
