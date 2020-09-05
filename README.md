@@ -74,7 +74,7 @@ A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes,
 >2. Go to the extracted 'folder';
 >3. Type: "muninstall.py" (without quotes) or "python muninstall.py" (without quotes);
 >4. Restart the "Explorer.ExE" (if necessary, sign out and sign in);
->6. Done!
+>5. Done!
 
 
 <br>
@@ -99,7 +99,7 @@ A toolkit that can handle a list of (sub)directories/files, hash (md5), deletes,
 >
 >>2.3. Typing the argument;
 >
->>2.3. Choosing a name for the new file;
+>>2.4. Choosing a name for the new file;
 >
 ----------
 
