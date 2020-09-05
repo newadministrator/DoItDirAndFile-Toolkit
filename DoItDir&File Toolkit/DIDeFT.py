@@ -5,6 +5,7 @@
 # What: DoItDir&File Toolkit  											        */
 # Lang: Python															        */
 # Disclaimer: You need python3.+                                                */
+# Version: 1.1b                                                                 */
 
 import os
 import sys
