@@ -111,8 +111,8 @@ Version: 1.1b
 10.1. Typing the file to be used;
 
 ____________________________________.
-Project: DoItDir&File Toolkit		    |
+Project: DoItDir&File Toolkit|
 ------------------------------------|
-Author: newadministrator			      |
+Author: newadministrator	|
 ------------------------------------|
 _______a.k.a.:___e.victor_________..|
