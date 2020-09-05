@@ -1,8 +1,8 @@
 # Author: newadministrator a.k.a e.victor	#
-# Date: 09/2020 							#
-# What: DoItDir&File Toolkit  				#
-# Lang: Python								#
-# Disclaimer: You need python3.+			#
+# Date: 09/2020 							            #
+# What: DoItDir&File Toolkit  				    #
+# Lang: Python								            #
+# Disclaimer: You need python3.+			    #
 
 Version: 1.1b
 
@@ -111,8 +111,8 @@ Version: 1.1b
 10.1. Typing the file to be used;
 
 ____________________________________.
-Project: DoItDir&File Toolkit		|
+Project: DoItDir&File Toolkit		    |
 ------------------------------------|
-Author: newadministrator			|
+Author: newadministrator			      |
 ------------------------------------|
 _______a.k.a.:___e.victor_________..|
