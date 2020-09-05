@@ -1,7 +1,7 @@
 # Author: newadministrator a.k.a e.victor	                            #
 # Date: 09/2020 							    #
 # What: DoItDir&File Toolkit  				            #
-# Lang: Python					                    #
+# Lang: Python					                          #
 # Disclaimer: You need python3.+			                    #
 
 Version: 1.1b
