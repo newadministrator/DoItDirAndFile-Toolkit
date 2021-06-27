@@ -44,7 +44,7 @@ elif yoursystemis == "Linux" or yoursystemis == "Darwin":
     done = os.remove(path0)
     
 else:
-    print('\nUnkown System!'+' Unkown System!'+' Unkown System!'+' Unkown System!'+' Unkown System!')
+    print('\nUnknown System!'+' Unknown System!'+' Unknown System!'+' Unknown System!'+' Unknown System!')
     sys.exit()
 
 if done:
