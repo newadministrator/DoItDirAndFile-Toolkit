@@ -64,7 +64,7 @@ elif yoursystemis == "Linux" or yoursystemis == "Darwin":
     Done = shutil.move("DIDeF", path0)
     
 else:
-    print('\nUnkown System!'+' Unkown System!'+' Unkown System!'+' Unkown System!'+' Unkown System!')
+    print('\nUnknown System!'+' Unknown System!'+' Unknown System!'+' Unknown System!'+' Unknown System!')
     sys.exit()
 
 if Done:
