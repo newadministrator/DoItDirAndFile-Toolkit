@@ -25,7 +25,7 @@ if yoursystemis == "Windows":
             os.mkdir(path0)
             
         else:
-            print ("\nNão foi possível prosseguir, a pasta necessária já existe, saindo ...!")
+            print ("\nAn error was identified, the required folder already exists, exiting ...!")
             sys.exit()
     
     except OSError:
